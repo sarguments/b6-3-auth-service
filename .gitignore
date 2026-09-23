@@ -1,0 +1,10 @@
+# 로컬 환경과 비밀정보
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
